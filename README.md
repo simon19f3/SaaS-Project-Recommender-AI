@@ -1,6 +1,6 @@
-# SaaS Logic-Tree Research Agent v2
+# SaaS Logic-Tree Research Agent 
 
-**Stack:** FastAPI · LangGraph · Next.js · React Flow · Claude (claude-sonnet-4-6)
+**Stack:** FastAPI · LangGraph · Next.js · React Flow · gemini
 
 ## Architecture
 
